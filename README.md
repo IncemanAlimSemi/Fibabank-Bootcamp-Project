@@ -1,6 +1,7 @@
 # Fibabank-Bootcamp-Project
 Fibabank Bootcamp Microservice Project
 
+## Not: Mikroservisleri tek tek deneyebilmeniz için Inventory ve Shopping mikroservislerine Client eklenmiştir.
 
 # Postgre SQL kullanılarak iki farklı database oluşturulmuştur.
 
